@@ -1,4 +1,3 @@
-from itertools import product
 X = Y = 0
 visited = [(0,0)]
 unique_visited = 1
